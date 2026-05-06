@@ -1,0 +1,18 @@
+127.0.0.1 - - [02/May/2026 16:25:06] "GET /files/games.json HTTP/1.1" 200 -
+127.0.0.1 - - [02/May/2026 16:25:10] "GET /files/index.html HTTP/1.1" 200 -
+172.105.4.196 - - [02/May/2026 16:31:35] code 404, message File not found
+172.105.4.196 - - [02/May/2026 16:31:35] "GET /.env HTTP/1.1" 404 -
+172.105.4.196 - - [02/May/2026 16:31:35] code 404, message File not found
+172.105.4.196 - - [02/May/2026 16:31:35] "GET /.git/config HTTP/1.1" 404 -
+45.205.1.26 - - [02/May/2026 16:39:41] code 501, message Unsupported method ('POST')
+45.205.1.26 - - [02/May/2026 16:39:41] "POST / HTTP/1.1" 501 -
+45.205.1.26 - - [02/May/2026 16:39:43] code 501, message Unsupported method ('POST')
+45.205.1.26 - - [02/May/2026 16:39:43] "POST /_next HTTP/1.1" 501 -
+45.205.1.26 - - [02/May/2026 16:39:43] code 501, message Unsupported method ('POST')
+45.205.1.26 - - [02/May/2026 16:39:43] "POST /api HTTP/1.1" 501 -
+45.205.1.26 - - [02/May/2026 16:39:45] code 501, message Unsupported method ('POST')
+45.205.1.26 - - [02/May/2026 16:39:45] "POST /_next/server HTTP/1.1" 501 -
+45.205.1.26 - - [02/May/2026 16:39:45] code 501, message Unsupported method ('POST')
+45.205.1.26 - - [02/May/2026 16:39:45] "POST /app HTTP/1.1" 501 -
+45.205.1.26 - - [02/May/2026 16:39:46] code 501, message Unsupported method ('POST')
+45.205.1.26 - - [02/May/2026 16:39:46] "POST /api/route HTTP/1.1" 501 -
