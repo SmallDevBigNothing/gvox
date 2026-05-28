@@ -1,0 +1,3168 @@
+{
+  "likes": {
+    "Bank Robbery": 4,
+    "clkonkrio": 4,
+    "superMarketSimulator": 1,
+    "clrocketgoalio": 17,
+    "SuperMarketSimulator": 8,
+    "cl10minutestildawn": 3,
+    "cl1v1lol": 6,
+    "cl1on1soccer": 0,
+    "cl12minibattles": 2,
+    "clbasketballstars": 2,
+    "clbasketballlegends": 2,
+    "clbankrobbery2": 2,
+    "clbankbreakout2": 1,
+    "clSINGLEFILE": 1,
+    "clBrawlstars": 3,
+    "clbrawlsimulator3d": 3,
+    "cheeserolling": 1,
+    "clescaperoad3": 3,
+    "clPou": 1,
+    "clADOFAI": 1,
+    "clvampiresurvivors": 1
+  },
+  "userLikes": {
+    "user_1777845913441_41nfpq58k": [
+      "superMarketSimulator",
+      "clrocketgoalio",
+      "clkonkrio"
+    ],
+    "user_1777889736354_36rx5xmqa": [
+      "clrocketgoalio",
+      "SuperMarketSimulator",
+      "clescaperoad3"
+    ],
+    "user_1777889787335_gg5cgiqwo": [
+      "clrocketgoalio",
+      "SuperMarketSimulator",
+      "clbasketballstars",
+      "clbankrobbery2"
+    ],
+    "user_1777889949473_jn72j3gjv": [
+      "clrocketgoalio",
+      "SuperMarketSimulator",
+      "cl1v1lol",
+      "clkonkrio",
+      "cl12minibattles",
+      "cl10minutestildawn"
+    ],
+    "user_1777891122704_puerie7zr": [
+      "clrocketgoalio",
+      "cl10minutestildawn",
+      "clbrawlsimulator3d"
+    ],
+    "user_1777878722948_illkb9qwj": [
+      "SuperMarketSimulator",
+      "clkonkrio",
+      "cl12minibattles",
+      "cl1v1lol",
+      "cl10minutestildawn",
+      "clrocketgoalio",
+      "Bank Robbery",
+      "clSINGLEFILE",
+      "clBrawlstars",
+      "clbasketballlegends",
+      "clbrawlsimulator3d",
+      "cheeserolling",
+      "clescaperoad3",
+      "clADOFAI"
+    ],
+    "user_1777891643977_1reyh31l9": [
+      "clrocketgoalio",
+      "SuperMarketSimulator",
+      "cl1v1lol",
+      "clbasketballstars",
+      "clbasketballlegends",
+      "clbankrobbery2",
+      "clbankbreakout2",
+      "clescaperoad3"
+    ],
+    "user_1777881710829_jhgy818d8": [
+      "clrocketgoalio",
+      "clBrawlstars",
+      "clkonkrio"
+    ],
+    "user_1777891826693_268eenthi": [
+      "SuperMarketSimulator",
+      "clrocketgoalio",
+      "clBrawlstars",
+      "Bank Robbery"
+    ],
+    "user_1777902701950_9ich2fpzw": [
+      "clrocketgoalio",
+      "SuperMarketSimulator",
+      "Bank Robbery",
+      "cl1v1lol"
+    ],
+    "user_1777904003585_odwea0xo5": [
+      "clrocketgoalio"
+    ],
+    "user_1777968563672_zq834nmbn": [
+      "clrocketgoalio"
+    ],
+    "user_1777990052336_qt9ue9w0i": [
+      "clrocketgoalio"
+    ],
+    "user_1777991172447_05u0wdpm0": [
+      "clPou",
+      "clvampiresurvivors"
+    ],
+    "user_1777968591439_e3m2aj45h": [
+      "clrocketgoalio"
+    ],
+    "user_1778048046586_jptwjz59d": [],
+    "user_1778048160878_q51jf1uqq": [
+      "clrocketgoalio",
+      "cl1v1lol",
+      "Bank Robbery"
+    ],
+    "user_1778055830222_tt6vocsaq": [
+      "clrocketgoalio",
+      "SuperMarketSimulator",
+      "cl1v1lol",
+      "clbrawlsimulator3d"
+    ],
+    "user_1778049317548_dtwroemb5": [
+      "clrocketgoalio"
+    ]
+  },
+  "logs": [
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T13:49:24.059Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T13:49:40.827Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-04T13:51:45.170Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777902701950_9ich2fpzw",
+      "timestamp": "2026-05-04T13:51:57.737Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-04T13:52:13.816Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "SuperMarketSimulator",
+      "timestamp": "2026-05-04T13:52:15.566Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777902701950_9ich2fpzw",
+      "timestamp": "2026-05-04T13:52:21.326Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891122704_puerie7zr",
+      "timestamp": "2026-05-04T13:52:24.014Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl10minutestildawn.html",
+      "timestamp": "2026-05-04T13:52:25.660Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T13:54:00.199Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-04T13:54:03.033Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-04T13:54:04.353Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "SuperMarketSimulator",
+      "timestamp": "2026-05-04T13:54:05.618Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "SuperMarketSimulator",
+      "timestamp": "2026-05-04T13:54:06.730Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "SuperMarketSimulator",
+      "timestamp": "2026-05-04T13:54:07.803Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-04T13:54:08.848Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-04T13:54:10.219Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl10minutestildawn",
+      "timestamp": "2026-05-04T13:54:14.450Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777902701950_9ich2fpzw",
+      "timestamp": "2026-05-04T13:55:02.943Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-04T13:55:11.109Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clkonkrio",
+      "timestamp": "2026-05-04T13:55:19.111Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "Bank Robbery",
+      "timestamp": "2026-05-04T13:55:28.560Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T13:55:30.184Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl1v1lol",
+      "timestamp": "2026-05-04T13:55:46.354Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl1on1soccer",
+      "timestamp": "2026-05-04T13:55:48.758Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1lol.html",
+      "timestamp": "2026-05-04T13:55:54.935Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "cl1on1soccer",
+      "timestamp": "2026-05-04T13:56:14.632Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1lol.html",
+      "timestamp": "2026-05-04T13:56:17.445Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777902701950_9ich2fpzw",
+      "timestamp": "2026-05-04T13:59:55.667Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "MINECRAFTTOWERDEFENSE.html",
+      "timestamp": "2026-05-04T14:00:16.732Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1lol.html",
+      "timestamp": "2026-05-04T14:03:24.577Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clFIFA11.html",
+      "timestamp": "2026-05-04T14:03:44.187Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clFIFA2000(1).html",
+      "timestamp": "2026-05-04T14:07:52.869Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T14:09:16.109Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clfifa2000.html",
+      "timestamp": "2026-05-04T14:11:32.174Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clGettothetopalthoughthereisnotop.html",
+      "timestamp": "2026-05-04T14:12:25.748Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777904003585_odwea0xo5",
+      "timestamp": "2026-05-04T14:13:24.326Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-04T14:13:29.476Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T14:13:30.605Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-04T14:13:33.939Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777904003585_odwea0xo5",
+      "timestamp": "2026-05-04T14:13:45.004Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T14:13:48.357Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-04T14:14:07.532Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "SuperMarketSimulator",
+      "timestamp": "2026-05-04T14:14:33.955Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clNautilusOS.html",
+      "timestamp": "2026-05-04T14:14:52.721Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-04T14:15:08.062Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-04T14:15:10.998Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777904121693_qjs104jsa",
+      "timestamp": "2026-05-04T14:15:22.382Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-04T14:18:27.025Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-04T14:19:09.880Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-04T14:19:31.527Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl12minibattles.html",
+      "timestamp": "2026-05-04T14:20:19.489Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl12minibattles",
+      "timestamp": "2026-05-04T14:20:23.688Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1lol.html",
+      "timestamp": "2026-05-04T14:34:52.461Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl1v1lol",
+      "timestamp": "2026-05-04T14:35:09.370Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-04T14:57:47.905Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T14:57:55.897Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-04T15:02:41.327Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-04T15:02:50.059Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T15:04:36.559Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T15:08:36.507Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-04T15:08:42.095Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl1v1lol",
+      "timestamp": "2026-05-04T15:08:56.434Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1lol.html",
+      "timestamp": "2026-05-04T15:09:02.261Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "MINECRAFTTOWERDEFENSE.html",
+      "timestamp": "2026-05-04T15:09:46.556Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777902701950_9ich2fpzw",
+      "timestamp": "2026-05-04T15:10:37.017Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777907439923_qg9y5ar4y",
+      "timestamp": "2026-05-04T15:10:41.152Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-04T15:10:44.994Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clSpongebobPowerKartGrandPrix.html",
+      "timestamp": "2026-05-04T15:11:41.455Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbasketballstars",
+      "timestamp": "2026-05-04T15:14:00.962Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbasketballlegends",
+      "timestamp": "2026-05-04T15:14:02.852Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "Bank Robbery.html",
+      "timestamp": "2026-05-04T15:14:22.076Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777902701950_9ich2fpzw",
+      "timestamp": "2026-05-04T15:15:43.879Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-04T15:15:46.756Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "Bank Robbery.html",
+      "timestamp": "2026-05-04T15:17:48.629Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-04T15:21:17.411Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "Bank Robbery.html",
+      "timestamp": "2026-05-04T15:21:28.575Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "Bank Robbery.html",
+      "timestamp": "2026-05-04T15:23:41.828Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbankrobbery2",
+      "timestamp": "2026-05-04T15:27:23.167Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbankbreakout2",
+      "timestamp": "2026-05-04T15:27:24.909Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbankrobbery2.html",
+      "timestamp": "2026-05-04T15:27:33.133Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-04T15:48:37.352Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbasketballlegends.html",
+      "timestamp": "2026-05-04T15:49:04.724Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "Bank Robbery.html",
+      "timestamp": "2026-05-04T15:49:07.380Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1.html",
+      "timestamp": "2026-05-04T15:49:33.414Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl3dash.html",
+      "timestamp": "2026-05-04T15:49:42.810Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl3pandas.html",
+      "timestamp": "2026-05-04T15:49:46.842Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl8ballclassic.html",
+      "timestamp": "2026-05-04T15:49:54.980Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-04T15:51:45.102Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl10minutestildawn",
+      "timestamp": "2026-05-04T15:51:49.760Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-04T15:51:51.938Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbankbreakout2.html",
+      "timestamp": "2026-05-04T15:53:45.750Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-04T16:30:35.720Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl8ballclassic.html",
+      "timestamp": "2026-05-04T16:30:43.611Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777881710829_jhgy818d8",
+      "timestamp": "2026-05-04T16:31:20.135Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clPou.html",
+      "timestamp": "2026-05-04T16:31:42.876Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-04T16:32:01.560Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T16:32:14.369Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clai.html",
+      "timestamp": "2026-05-04T16:34:32.236Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777881710829_jhgy818d8",
+      "timestamp": "2026-05-04T16:40:01.482Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clkonkrio.html",
+      "timestamp": "2026-05-04T16:40:09.124Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-04T16:40:21.284Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl8ballpool.html",
+      "timestamp": "2026-05-04T16:40:30.162Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl8ballclassic.html",
+      "timestamp": "2026-05-04T16:40:34.699Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado: no va negro de mierda",
+      "game": "cl8ballclassic",
+      "timestamp": "2026-05-04T16:40:44.535Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado como no funcional",
+      "game": "cl8ballclassic",
+      "timestamp": "2026-05-04T16:40:46.120Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-04T16:43:02.817Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl10minutestildawn.html",
+      "timestamp": "2026-05-04T16:43:08.435Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbankrobbery2.html",
+      "timestamp": "2026-05-04T16:44:03.137Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl10minutestildawn.html",
+      "timestamp": "2026-05-04T16:44:25.146Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-04T16:44:35.534Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T16:44:51.141Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "Bank Robbery",
+      "timestamp": "2026-05-04T16:51:59.347Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "Helios-Offline (1).html",
+      "timestamp": "2026-05-04T16:52:04.429Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-04T16:52:54.723Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clai.html",
+      "timestamp": "2026-05-04T16:56:16.468Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clSINGLEFILE.html",
+      "timestamp": "2026-05-04T16:57:05.036Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clSINGLEFILE",
+      "timestamp": "2026-05-04T16:58:17.348Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clStreetFighter1Arcade.html",
+      "timestamp": "2026-05-04T16:58:51.305Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clonlyup.html",
+      "timestamp": "2026-05-04T17:05:12.569Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clobbyonlyup.html",
+      "timestamp": "2026-05-04T17:08:25.691Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clkonkrio.html",
+      "timestamp": "2026-05-04T17:13:03.994Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl10minutestildawn.html",
+      "timestamp": "2026-05-04T17:13:16.347Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1tennis.html",
+      "timestamp": "2026-05-04T17:14:11.645Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-04T17:18:45.909Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clBrawlstars",
+      "timestamp": "2026-05-04T17:28:49.233Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-05T06:08:29.713Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbankrobbery2.html",
+      "timestamp": "2026-05-05T06:08:48.586Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T06:10:58.373Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-05T07:48:12.537Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T07:48:16.468Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clai.html",
+      "timestamp": "2026-05-05T07:53:07.588Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado: Porque marco es gay",
+      "game": "clai",
+      "timestamp": "2026-05-05T07:53:35.890Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado como no funcional",
+      "game": "clai",
+      "timestamp": "2026-05-05T07:53:38.515Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T07:53:54.267Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T07:55:11.763Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-05T07:57:20.454Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T07:57:27.264Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968563672_zq834nmbn",
+      "timestamp": "2026-05-05T08:09:24.397Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T08:09:37.039Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968591439_e3m2aj45h",
+      "timestamp": "2026-05-05T08:09:52.321Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T08:09:55.122Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-05T08:10:18.916Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clBrawlstars",
+      "timestamp": "2026-05-05T08:10:29.513Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T08:10:32.163Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbasketballlegends",
+      "timestamp": "2026-05-05T08:10:40.385Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clkonkrio",
+      "timestamp": "2026-05-05T08:11:41.120Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl10minutestildawn.html",
+      "timestamp": "2026-05-05T08:11:46.976Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-05T08:21:08.367Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T08:21:12.612Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbloonsTD6scratch.html",
+      "timestamp": "2026-05-05T08:22:51.364Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891826693_268eenthi",
+      "timestamp": "2026-05-05T08:25:42.161Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T08:25:55.474Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado: pene",
+      "game": "clFIFAroadtoworldcup98",
+      "timestamp": "2026-05-05T08:36:04.400Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-05T08:36:07.158Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado como no funcional",
+      "game": "clFIFAroadtoworldcup98",
+      "timestamp": "2026-05-05T08:36:08.232Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-05T08:36:17.948Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "SuperMarketSimulator",
+      "timestamp": "2026-05-05T08:36:19.408Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl1v1lol",
+      "timestamp": "2026-05-05T08:36:20.691Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clkonkrio",
+      "timestamp": "2026-05-05T08:36:22.227Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl12minibattles",
+      "timestamp": "2026-05-05T08:36:23.478Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "cl10minutestildawn",
+      "timestamp": "2026-05-05T08:36:26.584Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl10minutestildawn",
+      "timestamp": "2026-05-05T08:36:29.254Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-05T08:36:37.247Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbankbreakout2.html",
+      "timestamp": "2026-05-05T08:36:50.564Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clFIFA11.html",
+      "timestamp": "2026-05-05T08:37:12.135Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clFIFAsoccer96.html",
+      "timestamp": "2026-05-05T08:37:15.255Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbankrobbery2.html",
+      "timestamp": "2026-05-05T08:37:19.232Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbankrobbery2.html",
+      "timestamp": "2026-05-05T08:38:48.907Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T08:41:56.749Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbankbreakout2.html",
+      "timestamp": "2026-05-05T08:43:29.745Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbankrobbery2.html",
+      "timestamp": "2026-05-05T08:44:21.687Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T08:47:27.087Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777904121693_qjs104jsa",
+      "timestamp": "2026-05-05T08:57:10.546Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "Bank Robbery.html",
+      "timestamp": "2026-05-05T08:57:31.715Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clBrawlstars",
+      "timestamp": "2026-05-05T08:57:52.971Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "Bank Robbery",
+      "timestamp": "2026-05-05T08:57:54.484Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cledyscarsimulator.html",
+      "timestamp": "2026-05-05T08:58:46.471Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clmadstuntcars2.html",
+      "timestamp": "2026-05-05T08:59:13.489Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "PVZM.html",
+      "timestamp": "2026-05-05T08:59:41.746Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "PVZM.html",
+      "timestamp": "2026-05-05T08:59:56.849Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clfunnyshooter2.html",
+      "timestamp": "2026-05-05T09:00:29.524Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clfunnyshooter2.html",
+      "timestamp": "2026-05-05T09:00:38.827Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T09:00:39.366Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl100RoomsOfEnemies.html",
+      "timestamp": "2026-05-05T09:00:48.084Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clfunnyshooter22.html",
+      "timestamp": "2026-05-05T09:00:50.629Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clvex8.html",
+      "timestamp": "2026-05-05T09:01:35.724Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clfunnyshooter2.html",
+      "timestamp": "2026-05-05T09:02:03.075Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clfunnyshooter2.html",
+      "timestamp": "2026-05-05T09:02:06.614Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clfunnyshooter22.html",
+      "timestamp": "2026-05-05T09:02:19.726Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891826693_268eenthi",
+      "timestamp": "2026-05-05T09:03:52.045Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl12minibattles.html",
+      "timestamp": "2026-05-05T09:03:56.670Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cltimeshooter3.html",
+      "timestamp": "2026-05-05T09:04:11.584Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clkonkrio.html",
+      "timestamp": "2026-05-05T09:04:19.524Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-05T09:05:12.212Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777904121693_qjs104jsa",
+      "timestamp": "2026-05-05T09:05:12.346Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clFNAF4.html",
+      "timestamp": "2026-05-05T09:05:27.615Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clFNAF.html",
+      "timestamp": "2026-05-05T09:05:34.594Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clSpongebobPowerKartGrandPrix.html",
+      "timestamp": "2026-05-05T09:05:51.581Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clfunnyshooter2.html",
+      "timestamp": "2026-05-05T09:06:49.127Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clegg.html",
+      "timestamp": "2026-05-05T09:08:33.526Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-05T09:08:42.818Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T09:08:51.388Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clUZG.html",
+      "timestamp": "2026-05-05T09:10:17.936Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889787335_gg5cgiqwo",
+      "timestamp": "2026-05-05T09:25:27.651Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-05T09:25:32.794Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T09:26:39.256Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-05T10:23:45.020Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-05T10:23:46.481Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T10:23:53.790Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbasketballlegends.html",
+      "timestamp": "2026-05-05T10:29:28.442Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-05T11:20:57.283Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891122704_puerie7zr",
+      "timestamp": "2026-05-05T11:21:31.926Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T11:21:52.743Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-05T11:22:01.296Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T11:22:05.076Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-05T11:22:10.250Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-05T11:22:21.092Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbrawlsimulator3d.html",
+      "timestamp": "2026-05-05T11:23:15.830Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T11:23:20.538Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbrawlsimulator3d.html",
+      "timestamp": "2026-05-05T11:23:56.676Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbrawlsimulator3d.html",
+      "timestamp": "2026-05-05T11:23:57.293Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbrainrot.html",
+      "timestamp": "2026-05-05T11:27:03.853Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbrawlsimulator3d",
+      "timestamp": "2026-05-05T11:30:35.583Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clnickelodeonsuperbrawl2.html",
+      "timestamp": "2026-05-05T11:30:39.978Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clninjabrawl.html",
+      "timestamp": "2026-05-05T11:30:53.650Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado: no va",
+      "game": "clninjabrawl",
+      "timestamp": "2026-05-05T11:31:06.751Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado como no funcional",
+      "game": "clninjabrawl",
+      "timestamp": "2026-05-05T11:31:08.532Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cheeserolling.html",
+      "timestamp": "2026-05-05T11:32:36.723Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clpvz.html",
+      "timestamp": "2026-05-05T11:45:13.497Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cheeserolling",
+      "timestamp": "2026-05-05T11:45:20.164Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl10minutestildawn.html",
+      "timestamp": "2026-05-05T11:46:33.600Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl10minutestildawn",
+      "timestamp": "2026-05-05T11:53:46.016Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968563672_zq834nmbn",
+      "timestamp": "2026-05-05T12:00:44.985Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-05T12:00:48.102Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T12:00:58.192Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbrawlsimulator3d.html",
+      "timestamp": "2026-05-05T13:11:00.045Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cldatewithiraq.html",
+      "timestamp": "2026-05-05T13:11:07.463Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cldatewithiraq.html",
+      "timestamp": "2026-05-05T13:11:20.267Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T13:16:48.115Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-05T13:17:49.341Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cheeserolling.html",
+      "timestamp": "2026-05-05T13:19:28.035Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cldriverussia.html",
+      "timestamp": "2026-05-05T13:20:19.890Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cldrmario.html",
+      "timestamp": "2026-05-05T13:20:27.981Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clendlesswar5.html",
+      "timestamp": "2026-05-05T13:20:33.503Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clendlesswar5.html",
+      "timestamp": "2026-05-05T13:20:38.051Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clendlesswar4.html",
+      "timestamp": "2026-05-05T13:20:47.103Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado: no va",
+      "game": "clendlesswar5",
+      "timestamp": "2026-05-05T13:20:53.793Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado como no funcional",
+      "game": "clendlesswar5",
+      "timestamp": "2026-05-05T13:20:54.743Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-05T13:28:22.409Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescapeschoolduel.html",
+      "timestamp": "2026-05-05T13:36:08.974Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clescaperoad3",
+      "timestamp": "2026-05-05T13:36:12.372Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-05T13:37:00.838Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-05T13:51:59.648Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-05T13:52:14.049Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clADOFAI.html",
+      "timestamp": "2026-05-05T13:52:20.473Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-05T13:52:27.735Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T13:53:40.035Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T13:53:47.873Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T13:54:16.034Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-05T13:57:35.102Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-05T13:57:45.528Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl10minutestildawn.html",
+      "timestamp": "2026-05-05T14:02:15.664Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl12minibattles.html",
+      "timestamp": "2026-05-05T14:02:34.330Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbasketballlegends.html",
+      "timestamp": "2026-05-05T14:03:54.716Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777990052336_qt9ue9w0i",
+      "timestamp": "2026-05-05T14:07:33.327Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T14:07:45.236Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777990052336_qt9ue9w0i",
+      "timestamp": "2026-05-05T14:16:22.852Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-05T14:16:27.217Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T14:16:29.593Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777991172447_05u0wdpm0",
+      "timestamp": "2026-05-05T14:26:13.307Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clPou",
+      "timestamp": "2026-05-05T14:27:29.884Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clgymstack.html",
+      "timestamp": "2026-05-05T14:28:20.831Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clgtamods.html",
+      "timestamp": "2026-05-05T14:28:54.854Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cldriverussia.html",
+      "timestamp": "2026-05-05T14:30:12.693Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbobtherobber2.html",
+      "timestamp": "2026-05-05T14:30:52.707Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777993477932_fdo9vwfx7",
+      "timestamp": "2026-05-05T15:04:38.517Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968563672_zq834nmbn",
+      "timestamp": "2026-05-05T15:05:02.722Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl3dash.html",
+      "timestamp": "2026-05-05T15:05:10.899Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T15:05:34.988Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968563672_zq834nmbn",
+      "timestamp": "2026-05-05T15:20:15.053Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "Bank Robbery.html",
+      "timestamp": "2026-05-05T15:20:21.469Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "Eaglercraft-Indev-Offline (1).html",
+      "timestamp": "2026-05-05T15:23:23.535Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1on1soccer.html",
+      "timestamp": "2026-05-05T15:25:01.626Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777993477932_fdo9vwfx7",
+      "timestamp": "2026-05-05T15:31:44.627Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "geometrydashlite.html",
+      "timestamp": "2026-05-05T15:32:58.434Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clEaglercraft-Alpha-126-Offline.html",
+      "timestamp": "2026-05-05T15:33:00.615Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clgeometrydashscratch.html",
+      "timestamp": "2026-05-05T15:33:04.812Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clgeometrydashscratch.html",
+      "timestamp": "2026-05-05T15:33:06.373Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "geometrydashlite.html",
+      "timestamp": "2026-05-05T15:33:30.158Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "geometrydashlite.html",
+      "timestamp": "2026-05-05T15:33:48.125Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-05T15:35:20.136Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "geometrydashlite.html",
+      "timestamp": "2026-05-05T15:36:03.989Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777993477932_fdo9vwfx7",
+      "timestamp": "2026-05-05T15:38:12.411Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1lol.html",
+      "timestamp": "2026-05-05T15:38:25.739Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891122704_puerie7zr",
+      "timestamp": "2026-05-05T15:40:59.653Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbrawlsimulator3d",
+      "timestamp": "2026-05-05T15:41:21.898Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clNBAjam.html",
+      "timestamp": "2026-05-05T15:41:45.393Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado: no funciona (marrrrrrr)",
+      "game": "clNBAjam",
+      "timestamp": "2026-05-05T15:42:09.038Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado como no funcional",
+      "game": "clNBAjam",
+      "timestamp": "2026-05-05T15:42:13.809Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clPokeEmeraldRogueEX.html",
+      "timestamp": "2026-05-05T15:42:21.354Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clADOFAI",
+      "timestamp": "2026-05-05T16:02:25.559Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clfnfimposterv4.html",
+      "timestamp": "2026-05-05T16:03:29.243Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clADOFAI.html",
+      "timestamp": "2026-05-05T16:06:53.088Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clcommanderkeen6.html",
+      "timestamp": "2026-05-05T16:10:55.270Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clcrash3.html",
+      "timestamp": "2026-05-05T16:11:10.637Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clcrazycattle3d.html",
+      "timestamp": "2026-05-05T16:11:57.130Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clcrazyplanelanding.html",
+      "timestamp": "2026-05-05T16:16:55.052Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbarryhasasecret.html",
+      "timestamp": "2026-05-05T16:17:07.484Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-05T17:45:32.364Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-05T17:46:53.438Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-05T18:35:19.430Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1lol.html",
+      "timestamp": "2026-05-05T18:35:32.614Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-05T18:41:27.580Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T18:41:58.680Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-05T18:44:48.851Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-05T18:44:52.495Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbrawlsimulator3d.html",
+      "timestamp": "2026-05-05T19:01:30.257Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbrawlsimulator3d.html",
+      "timestamp": "2026-05-05T19:02:33.961Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clescaperoad3",
+      "timestamp": "2026-05-05T19:08:28.079Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clracemaster3d.html",
+      "timestamp": "2026-05-05T19:09:00.317Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clscaryteacher3d.html",
+      "timestamp": "2026-05-05T19:09:44.799Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl3dpinballspacecadet.html",
+      "timestamp": "2026-05-05T19:12:01.355Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-05T19:12:57.214Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-05T19:13:05.273Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-05T19:56:47.841Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1lol.html",
+      "timestamp": "2026-05-05T19:56:51.968Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968591439_e3m2aj45h",
+      "timestamp": "2026-05-06T06:10:39.043Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-06T06:10:43.233Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:10:44.481Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777991172447_05u0wdpm0",
+      "timestamp": "2026-05-06T06:10:53.009Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-06T06:11:15.823Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clvampiresurvivors.html",
+      "timestamp": "2026-05-06T06:12:04.271Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048046586_jptwjz59d",
+      "timestamp": "2026-05-06T06:14:07.585Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-06T06:15:07.246Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-06T06:15:09.414Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:15:11.605Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048160878_q51jf1uqq",
+      "timestamp": "2026-05-06T06:16:01.590Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-06T06:16:07.427Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl1v1lol",
+      "timestamp": "2026-05-06T06:16:13.556Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clBrawlstars",
+      "timestamp": "2026-05-06T06:16:18.832Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "Bank Robbery",
+      "timestamp": "2026-05-06T06:16:20.500Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "clBrawlstars",
+      "timestamp": "2026-05-06T06:16:21.709Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "clBrawlstars",
+      "timestamp": "2026-05-06T06:16:23.169Z"
+    },
+    {
+      "type": "unlike",
+      "message": "Like removido",
+      "game": "clBrawlstars",
+      "timestamp": "2026-05-06T06:16:24.260Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:16:26.639Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777991172447_05u0wdpm0",
+      "timestamp": "2026-05-06T06:31:16.424Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048160878_q51jf1uqq",
+      "timestamp": "2026-05-06T06:34:33.711Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777991172447_05u0wdpm0",
+      "timestamp": "2026-05-06T06:34:34.771Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clvampiresurvivors",
+      "timestamp": "2026-05-06T06:34:39.727Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clvampiresurvivors.html",
+      "timestamp": "2026-05-06T06:34:42.225Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778049317548_dtwroemb5",
+      "timestamp": "2026-05-06T06:35:18.214Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:35:20.807Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048046586_jptwjz59d",
+      "timestamp": "2026-05-06T06:39:08.261Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:39:23.409Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777991172447_05u0wdpm0",
+      "timestamp": "2026-05-06T06:45:45.256Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clvampiresurvivors.html",
+      "timestamp": "2026-05-06T06:45:53.167Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048046586_jptwjz59d",
+      "timestamp": "2026-05-06T06:46:12.723Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:46:18.155Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968591439_e3m2aj45h",
+      "timestamp": "2026-05-06T06:48:19.353Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:48:22.801Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048046586_jptwjz59d",
+      "timestamp": "2026-05-06T06:48:26.130Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777991172447_05u0wdpm0",
+      "timestamp": "2026-05-06T06:48:29.905Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:48:30.963Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl1v1lol.html",
+      "timestamp": "2026-05-06T06:48:37.780Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clvampiresurvivors.html",
+      "timestamp": "2026-05-06T06:49:08.625Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968591439_e3m2aj45h",
+      "timestamp": "2026-05-06T06:55:51.858Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:55:54.752Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968591439_e3m2aj45h",
+      "timestamp": "2026-05-06T06:59:35.324Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T06:59:39.379Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778049317548_dtwroemb5",
+      "timestamp": "2026-05-06T06:59:44.952Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:00:05.502Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048046586_jptwjz59d",
+      "timestamp": "2026-05-06T07:00:37.689Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:00:44.825Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891122704_puerie7zr",
+      "timestamp": "2026-05-06T07:01:29.056Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-06T07:01:34.670Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-06T07:01:41.870Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clescaperoad3",
+      "timestamp": "2026-05-06T07:01:53.635Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-06T07:02:01.431Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado: no funciona me cago en satanas",
+      "game": "SuperMarketSimulator",
+      "timestamp": "2026-05-06T07:02:05.378Z"
+    },
+    {
+      "type": "report",
+      "message": "Juego reportado como no funcional",
+      "game": "SuperMarketSimulator",
+      "timestamp": "2026-05-06T07:02:09.066Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:02:10.554Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:02:53.188Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-06T07:03:56.760Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048046586_jptwjz59d",
+      "timestamp": "2026-05-06T07:05:46.751Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:05:49.801Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbasketballstars",
+      "timestamp": "2026-05-06T07:06:24.062Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbasketballstars",
+      "timestamp": "2026-05-06T07:06:25.425Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbankrobbery2",
+      "timestamp": "2026-05-06T07:06:26.703Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbankrobbery2",
+      "timestamp": "2026-05-06T07:06:28.618Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbankrobbery2",
+      "timestamp": "2026-05-06T07:06:30.048Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbankrobbery2",
+      "timestamp": "2026-05-06T07:06:31.467Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbankrobbery2",
+      "timestamp": "2026-05-06T07:06:31.853Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777968591439_e3m2aj45h",
+      "timestamp": "2026-05-06T07:08:11.991Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777991172447_05u0wdpm0",
+      "timestamp": "2026-05-06T07:08:42.245Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clvampiresurvivors.html",
+      "timestamp": "2026-05-06T07:08:45.988Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048046586_jptwjz59d",
+      "timestamp": "2026-05-06T07:18:16.884Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:18:20.161Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:18:46.029Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777990052336_qt9ue9w0i",
+      "timestamp": "2026-05-06T07:23:10.569Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:23:21.541Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T07:26:59.086Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777991172447_05u0wdpm0",
+      "timestamp": "2026-05-06T07:27:06.608Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clvampiresurvivors.html",
+      "timestamp": "2026-05-06T07:27:11.049Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "SuperMarketSimulator.html",
+      "timestamp": "2026-05-06T07:28:10.587Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl13bones.html",
+      "timestamp": "2026-05-06T07:28:35.676Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048160878_q51jf1uqq",
+      "timestamp": "2026-05-06T07:29:56.838Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-06T07:31:36.289Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "cl10yardfight.html",
+      "timestamp": "2026-05-06T07:33:19.030Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clbrawlsimulator3d.html",
+      "timestamp": "2026-05-06T07:43:46.282Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-06T07:48:28.662Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:48:31.679Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T07:51:01.336Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:51:04.918Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777881710829_jhgy818d8",
+      "timestamp": "2026-05-06T07:51:20.713Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T07:51:34.893Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T07:55:16.342Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "digOutOfPrison.html",
+      "timestamp": "2026-05-06T07:55:19.962Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T08:01:41.333Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T08:05:50.964Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T08:05:50.973Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T08:06:02.846Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T08:06:05.840Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T08:10:09.519Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-06T08:10:17.866Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T08:18:18.367Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T08:18:51.762Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889787335_gg5cgiqwo",
+      "timestamp": "2026-05-06T08:19:25.238Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T08:21:30.652Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T08:21:54.836Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T08:22:05.751Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-06T08:23:48.409Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778055830222_tt6vocsaq",
+      "timestamp": "2026-05-06T08:23:50.883Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-06T08:23:57.058Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "SuperMarketSimulator",
+      "timestamp": "2026-05-06T08:23:58.329Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "cl1v1lol",
+      "timestamp": "2026-05-06T08:23:59.684Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T08:23:59.981Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T08:24:02.485Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clbrawlsimulator3d",
+      "timestamp": "2026-05-06T08:24:02.530Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T08:24:04.467Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T08:24:04.969Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-06T08:24:06.743Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-06T09:08:39.370Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778049317548_dtwroemb5",
+      "timestamp": "2026-05-06T09:15:03.635Z"
+    },
+    {
+      "type": "like",
+      "message": "Like registrado",
+      "game": "clrocketgoalio",
+      "timestamp": "2026-05-06T09:15:20.658Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T09:15:22.242Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778048160878_q51jf1uqq",
+      "timestamp": "2026-05-06T09:24:35.081Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:00.991Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:03.662Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:06.056Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:07.208Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:08.646Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:10.634Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:10.979Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:14.966Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:17.157Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:20.066Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777891643977_1reyh31l9",
+      "timestamp": "2026-05-06T10:29:20.890Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778055830222_tt6vocsaq",
+      "timestamp": "2026-05-06T10:39:04.441Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-06T10:39:15.450Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-06T10:39:41.719Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064074051_ixol619sp",
+      "timestamp": "2026-05-06T10:41:15.452Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778055830222_tt6vocsaq",
+      "timestamp": "2026-05-06T10:41:41.355Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-06T10:41:53.283Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064074051_ixol619sp",
+      "timestamp": "2026-05-06T10:45:21.857Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064384466_cnedgmmbb",
+      "timestamp": "2026-05-06T10:46:25.956Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064402840_fpo9me10z",
+      "timestamp": "2026-05-06T10:46:43.579Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:47:21.459Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:47:50.285Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:49:39.563Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:49:50.575Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:52:21.677Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:54:28.973Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:55:19.957Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:55:48.128Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:56:55.343Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778055830222_tt6vocsaq",
+      "timestamp": "2026-05-06T10:57:42.470Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-06T10:57:51.277Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T10:57:53.640Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T10:57:59.664Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778065694416_8mm0rh7r4",
+      "timestamp": "2026-05-06T11:08:15.221Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064402840_fpo9me10z",
+      "timestamp": "2026-05-06T11:09:56.974Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T11:10:01.011Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T11:10:26.869Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-06T11:10:37.677Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064440829_sl1c142m2",
+      "timestamp": "2026-05-06T11:11:37.270Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-06T11:12:27.135Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clescaperoad3.html",
+      "timestamp": "2026-05-06T11:12:56.942Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1777889736354_36rx5xmqa",
+      "timestamp": "2026-05-06T13:06:20.644Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064402840_fpo9me10z",
+      "timestamp": "2026-05-06T13:06:22.963Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T13:06:29.872Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-06T14:32:00.843Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clBrawlstars.html",
+      "timestamp": "2026-05-06T15:02:18.640Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064402840_fpo9me10z",
+      "timestamp": "2026-05-06T16:09:17.173Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778083760476_uta3nna91",
+      "timestamp": "2026-05-06T16:09:22.287Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T16:09:31.067Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064402840_fpo9me10z",
+      "timestamp": "2026-05-06T18:54:24.818Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T18:54:27.536Z"
+    },
+    {
+      "type": "visit",
+      "message": "Acceso a plataforma ofuscada",
+      "game": "user_1778064402840_fpo9me10z",
+      "timestamp": "2026-05-06T19:32:25.425Z"
+    },
+    {
+      "type": "play",
+      "message": "Juego abierto en sandbox (iframe)",
+      "game": "clrocketgoalio.html",
+      "timestamp": "2026-05-06T19:32:28.593Z"
+    }
+  ],
+  "verified": [
+    "SuperMarketSimulator",
+    "clrocketgoalio",
+    "cl10minutestildawn",
+    "cl1v1lol",
+    "clkonkrio",
+    "cl12minibattles",
+    "clbrawlsimulator3d",
+    "clADOFAI"
+  ],
+  "reports": [
+    {
+      "id": "1777967615888",
+      "game": "clai",
+      "reason": "Porque marco es gay",
+      "userId": "user_1777881710829_jhgy818d8",
+      "timestamp": "2026-05-05T07:53:35.888Z",
+      "resolved": false
+    },
+    {
+      "id": "1777970164391",
+      "game": "clFIFAroadtoworldcup98",
+      "reason": "pene",
+      "userId": "user_1777889949473_jn72j3gjv",
+      "timestamp": "2026-05-05T08:36:04.391Z",
+      "resolved": false
+    },
+    {
+      "id": "1777980666749",
+      "game": "clninjabrawl",
+      "reason": "no va",
+      "userId": "user_1777878722948_illkb9qwj",
+      "timestamp": "2026-05-05T11:31:06.749Z",
+      "resolved": false
+    }
+  ]
+}
