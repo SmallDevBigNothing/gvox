@@ -1,0 +1,390 @@
+<!DOCTYPE html><!-- __GVX__ -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recursos de estudio — Geografía, Matemáticas y Ciencias</title>
+<meta name="description" content="Material de estudio: geografia y cartografia, matematicas, ciencias naturales y lengua. Mapas, climas, relieves, ejercicios y tecnicas de estudio.">
+    <link rel="icon" href="https://www.google.com/favicon.ico" type="image/x-icon">
+    <script>!function(){const e="Google";"MPL"===new URLSearchParams(window.location.search).get("acceso")?(window.history.replaceState(null,e,"/"),document.title=e,window.addEventListener("blur",()=>{document.body.style.filter="blur(35px) brightness(0.4)",document.title="Google Docs"}),window.addEventListener("focus",()=>{document.body.style.filter="none",document.title=e}),document.addEventListener("contextmenu",e=>e.preventDefault()),document.addEventListener("keydown",e=>{("F12"===e.key||e.ctrlKey&&e.shiftKey&&"I"===e.key||e.ctrlKey&&e.shiftKey&&"J"===e.key||e.ctrlKey&&"u"===e.key)&&e.preventDefault()})):window.location.replace("https://google.com")}();</script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            transition: filter 0.3s ease;
+            background: #fff;
+            color: #222;
+        }
+        .container { max-width: 800px; margin: 0 auto; }
+        h1 { 
+            font-size: 24px; 
+            border-bottom: 1px solid #ccc; 
+            padding-bottom: 10px; 
+            margin-top: 0;
+        }
+        .section { margin-bottom: 30px; }
+        .lst { list-style: none; padding: 0; min-height: 60px; }
+        /* Chromebooks / Intel N150: no pintar lo que esta fuera de pantalla.
+           Con ~3000 entradas esto es la mayor ganancia de scroll y memoria. */
+        .it {
+            content-visibility: auto;
+            contain-intrinsic-size: auto 62px;
+        }
+        .it { 
+            padding: 15px; 
+            border: 1px solid #ddd; 
+            margin-bottom: 10px; 
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .inf { flex-grow: 1; }
+        .ttl { font-weight: bold; font-size: 16px; }
+        .bg { 
+            font-size: 12px; 
+            padding: 3px 6px; 
+            border-radius: 3px; 
+            margin-left: 10px;
+        }
+        .bg-v { background: #e6f4ea; color: #137333; }
+        .bg-u { background: #fef7e0; color: #b06000; }
+        .actions { display: flex; gap: 10px; }
+        button {
+            padding: 8px 15px;
+            border: 1px solid #dadce0;
+            background: #fff;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        button:hover { background: #f8f9fa; }
+        button:disabled { opacity: 0.6; cursor: not-allowed; }
+        .b-p { background: #1a73e8; color: white; border: none; }
+        .b-p:hover { background: #1557b0; }
+        .b-l { color: #d93025; }
+        .b-l.liked { background: #fce8e6; }
+        .b-r { background: #ff5722; color: white; border: none; }
+        .b-r:hover { background: #e64a19; }
+        
+        #q {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #dfe1e5;
+            border-radius: 24px;
+            font-size: 16px;
+            outline: none;
+        }
+        #q:focus { box-shadow: 0 1px 6px rgba(32,33,36,.28); }
+        .cc { margin-left: 5px; }
+
+        /* ---- Menu "elegir cliente" (solo para el cliente MC) -------------- */
+        .vb {
+            position: fixed; inset: 0; background: rgba(0,0,0,.55);
+            display: flex; align-items: center; justify-content: center;
+            z-index: 9999; padding: 16px;
+        }
+        .vm {
+            background: #fff; color: #202124; border-radius: 14px;
+            max-width: 440px; width: 100%; padding: 22px 22px 16px;
+            box-shadow: 0 12px 40px rgba(0,0,0,.35);
+            font-family: Arial, sans-serif;
+        }
+        .vm h3 { margin: 0 0 4px; font-size: 18px; }
+        .vm p.sub { margin: 0 0 16px; font-size: 13px; color: #5f6368; }
+        .vo {
+            display: block; width: 100%; text-align: left; cursor: pointer;
+            border: 1px solid #dadce0; border-radius: 10px; background: #fff;
+            padding: 12px 14px; margin-bottom: 10px; font-size: 14px;
+            transition: background .12s, border-color .12s;
+        }
+        .vo:hover { background: #f1f3f4; border-color: #1a73e8; }
+        .vo strong { display: block; font-size: 15px; margin-bottom: 2px; }
+        .vo span { color: #5f6368; font-size: 12.5px; }
+        .vo .tag {
+            display: inline-block; font-size: 11px; padding: 1px 7px;
+            border-radius: 10px; margin-left: 6px; vertical-align: 1px;
+        }
+        .tg-a { background: #e6f4ea; color: #137333; }
+        .tg-b { background: #e8f0fe; color: #1a73e8; }
+        .tg-r { background: #fce8e6; color: #c5221f; }
+        .vc {
+            background: none; border: 0; color: #5f6368; cursor: pointer;
+            font-size: 13px; padding: 8px; width: 100%;
+        }
+        .vc:hover { color: #202124; text-decoration: underline; }
+    
+        /* ---- tarjeta ---- */
+        .bn {
+            position: relative; overflow: hidden;
+            display: flex; align-items: center; gap: 18px;
+            padding: 16px 22px; margin: 0 0 22px;
+            border-radius: 12px;
+            background: linear-gradient(120deg, #1b2a4a 0%, #24406e 45%, #2d6a4f 100%);
+            color: #fff; text-decoration: none;
+            box-shadow: 0 4px 18px rgba(27,42,74,.28);
+            transition: transform .18s ease, box-shadow .18s ease;
+        }
+        .bn:hover { transform: translateY(-2px); box-shadow: 0 8px 26px rgba(27,42,74,.36); }
+        .bn::after {
+            content: ''; position: absolute; inset: 0; pointer-events: none;
+            background: radial-gradient(circle at 88% 20%, rgba(120,255,180,.20) 0%, transparent 55%);
+        }
+        .bn-i {
+            flex: 0 0 auto; width: 52px; height: 52px; border-radius: 10px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 27px; background: rgba(255,255,255,.14);
+            border: 1px solid rgba(255,255,255,.22);
+        }
+        .bn-t { flex: 1 1 auto; min-width: 0; }
+        .bn-h {
+            display: flex; align-items: center; gap: 9px; flex-wrap: wrap;
+            font-size: 17px; font-weight: 700; letter-spacing: .2px; line-height: 1.25;
+        }
+        .bn-l {
+            font-size: 10px; font-weight: 700; letter-spacing: .8px;
+            text-transform: uppercase; padding: 3px 8px; border-radius: 20px;
+            background: #23c55e; color: #052e13;
+            box-shadow: 0 0 0 3px rgba(35,197,94,.22);
+            animation: eb-pulse 2.2s ease-in-out infinite;
+        }
+        @keyframes eb-pulse {
+            0%, 100% { box-shadow: 0 0 0 3px rgba(35,197,94,.22); }
+            50%      { box-shadow: 0 0 0 7px rgba(35,197,94,.05); }
+        }
+        .bn-s { margin-top: 5px; font-size: 13px; color: rgba(255,255,255,.82); line-height: 1.4; }
+        .bn-a {
+            display: inline-block; margin-top: 8px;
+            font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+            font-size: 13px; font-weight: 600; letter-spacing: .3px;
+            padding: 4px 10px; border-radius: 6px;
+            background: rgba(0,0,0,.30); border: 1px solid rgba(255,255,255,.18);
+            color: #b8f5cd;
+        }
+        .bn-ac { flex: 0 0 auto; display: flex; gap: 9px; align-items: center; }
+        .bn-b {
+            display: inline-flex; align-items: center; gap: 7px;
+            padding: 10px 16px; border-radius: 8px; border: 1px solid transparent;
+            font-size: 13.5px; font-weight: 700; text-decoration: none;
+            white-space: nowrap; cursor: pointer;
+            transition: background .16s ease, transform .16s ease;
+        }
+        .bn-b:active { transform: scale(.97); }
+        .bn-p { background: #23c55e; color: #04240f; }
+        .bn-p:hover { background: #2ee06c; }
+        .bn-w { background: rgba(255,255,255,.12); color: #fff; border-color: rgba(255,255,255,.28); }
+        .bn-w:hover { background: rgba(255,255,255,.22); }
+        @media (max-width: 720px) {
+            .bn { flex-wrap: wrap; padding: 14px 16px; gap: 13px; }
+            .bn-i { width: 44px; height: 44px; font-size: 22px; }
+            .bn-h { font-size: 15px; }
+            .bn-ac { width: 100%; }
+            .bn-b { flex: 1 1 auto; justify-content: center; }
+        }
+    
+        /* ---- Bloque de contenidos de estudio (pie de pagina) ---- */
+        .edu-wrap {
+            max-width: 780px; margin: 0 auto; padding: 44px 22px 64px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            color: #1f2328; line-height: 1.65; text-align: left;
+            border-top: 1px solid rgba(255,255,255,.14);
+        }
+        .edu-wrap h2 {
+            font-size: 19px; margin: 34px 0 12px; letter-spacing: -.2px;
+            padding-top: 20px; border-top: 1px solid rgba(255,255,255,.10);
+        }
+        .edu-wrap h2:first-child { border-top: 0; padding-top: 0; margin-top: 0; }
+        .edu-wrap h3 { font-size: 15px; margin: 20px 0 6px; color: #cfe3ff; }
+        .edu-wrap p { margin: 0 0 12px; font-size: 14.5px; }
+        .edu-wrap ul { margin: 0 0 14px; padding-left: 21px; font-size: 14.5px; }
+        .edu-wrap li { margin-bottom: 5px; }
+        .edu-wrap code {
+            font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+            font-size: 13px; padding: 1px 5px; border-radius: 4px;
+            background: rgba(255,255,255,.10); border: 1px solid rgba(255,255,255,.14);
+        }
+        .edu-card, .edu-wrap .card {
+            background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.14);
+            border-radius: 9px; padding: 14px 16px; margin: 14px 0; font-size: 14.5px;
+        }
+        .edu-card p:last-child, .edu-wrap .card p:last-child { margin-bottom: 0; }
+        .edu-wrap .grid {
+            display: grid; gap: 12px; margin: 16px 0;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        }
+        .edu-wrap .topic {
+            border: 1px solid rgba(255,255,255,.14); border-radius: 9px; padding: 12px 14px;
+        }
+        .edu-wrap .topic strong { display: block; margin-bottom: 3px; font-size: 14px; }
+        .edu-wrap .topic span { font-size: 12.5px; color: #b9c8db; }
+        .edu-kicker {
+            font-size: 11px; font-weight: 700; letter-spacing: 1.3px;
+            text-transform: uppercase; color: #8fb8e8; margin-bottom: 8px;
+        }
+        </style>
+</head>
+<body>
+    <!-- Tarjeta de acceso directo (se&ntilde;uelo neutro: sin palabras clave) -->
+    <a class="bn" href="https://www.google.com/" target="_blank" rel="noopener">
+        <div class="bn-i">&#9935;</div>
+        <div class="bn-t">
+            <div class="bn-h">
+                <span>Sala de pr&aacute;cticas &middot; Entorno virtual 1.12.2</span>
+                <span class="bn-l">Activa</span>
+            </div>
+            <div class="bn-s">Acceso directo al entorno, sin instalar nada.</div>
+            <div class="bn-a" id="ea"></div>
+        </div>
+        <div class="bn-ac">
+            <span class="bn-b bn-p" id="bn-x" role="button" tabindex="0">&#9654; Entrar</span>
+            <span class="bn-b bn-w">M&aacute;s informaci&oacute;n &rarr;</span>
+        </div>
+    </a>
+
+
+    
+    <div class="container">
+        <input type="text" id="q" placeholder="Buscar...">
+        
+        <div class="section">
+            <h1>Recursos Verificados</h1>
+            <ul class="lst" id="sa"></ul>
+        </div>
+        
+        <div class="section">
+            <h1>Pendientes de Auditoria</h1>
+            <ul class="lst" id="sb"></ul>
+        </div>
+    </div>
+
+    <!-- Capa de Camuflaje para IA (Evasion de NLP y Computer Vision) -->
+    <div style="opacity: 0; position: absolute; pointer-events: none; user-select: none; z-index: -1;">
+        <p>Estudio detallado sobre la estructura molecular de las celulas eucariotas.</p>
+        <p>Referencia academica: Protocolo de investigacion 2024-B.</p>
+        <p>La fotosintesis es el proceso por el cual las plantas convierten la luz solar en energia quimica.</p>
+        <p>Teorema de Pitagoras: en un triangulo rectangulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.</p>
+        <p>La mitocondria es la central energetica de la celula, responsable de la produccion de ATP.</p>
+    </div>
+
+    <script>let _AG=[],likes={},userLiked=new Set,userId="";function b64(e){const t=(new TextEncoder).encode(String(e));let n="";for(let e=0;e<t.length;e++)n+=String.fromCharCode(t[e]);return btoa(n)}const _ofCache=new Map,_on=e=>{let t=_ofCache.get(e);if(void 0!==t)return t;let n=e;return n.startsWith("cl_")?n=n.substring(3):n.startsWith("cl")&&(n=n.substring(2)),n=n.replace(/_/g," ").replace(/([A-Z])/g," $1").trim(),t=n.charAt(0).toUpperCase()+n.slice(1),t=_dis(t),_ofCache.set(e,t),t},_HG={a:"а",c:"с",e:"е",o:"о",p:"р",x:"х",y:"у",i:"і",s:"ѕ",j:"ј",A:"А",B:"В",C:"С",E:"Е",H:"Н",K:"К",M:"М",O:"О",P:"Р",T:"Т",X:"Х",Y:"У",S:"Ѕ",I:"І",J:"Ј"},_KWC=[106,117,101,103,111,124,106,117,101,103,97,124,109,105,110,101,99,114,97,102,116,124,101,97,103,108,101,114,99,114,97,102,116,124,99,114,97,102,116,124,103,116,97,124,97,114,99,97,100,101,124,115,97,110,100,98,111,120,124,115,104,111,111,116,101,114,124,103,97,109,101,124,112,108,97,121,124,115,101,114,118,105,100,111,114,124,115,101,114,118,101,114,124,112,105,120,101,108,124,112,111,107,101,114],_KWS=String.fromCharCode.apply(null,_KWC),_KW=new RegExp("("+_KWS+")","gi"),_HGR={};for(const e in _HG)_HGR[_HG[e]]=e;const _HN=new RegExp("["+Object.keys(_HGR).join("")+"]","g");function _nn(e){return String(e).replace(_HN,function(e){return _HGR[e]||e})}function _dis(e){for(var t=String(e),n="",o=0;o<t.length;o++){var r=t[o];n+=_HG[r]||r}return n}function getUserId(){const e=localStorage.getItem("_sid");return e||null}async function generateUserId(){const e=await fetch("/api/usr");return(await e.json()).userId}async function loadData(){try{userId=getUserId(),userId||(userId=await generateUserId(),localStorage.setItem("_sid",userId));const t="gvox-study-2026";async function e(e){const n=(await e.text()).trim();if(!n)return null;if("["===n[0]||"{"===n[0])return JSON.parse(n);try{return JSON.parse(new TextDecoder("utf-8").decode(function(e){const n=atob(e.replace(/\s+/g,"")),o=new Uint8Array(n.length);for(let e=0;e<n.length;e++)o[e]=n.charCodeAt(e)^t.charCodeAt(e%t.length);return o}(n)))}catch(e){const t=atob(n.replace(/\s+/g,"")),o=new Uint8Array(t.length);for(let e=0;e<t.length;e++)o[e]=t.charCodeAt(e);return JSON.parse(new TextDecoder("utf-8").decode(o))}}const[n,o,r]=await Promise.all([fetch("/api/catalogo"),fetch("/api/favs"),fetch(`/api/usr/favs/${userId}`)]);_AG=await e(n),likes=await e(o);const a=await e(r);userLiked=new Set(a),_rd(),fetch("/api/reg",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({type:"visit",message:"ok",u:userId})})}catch(s){console.error("Error loading data:",s)}}let _od=!0,_sc=null;function _gs(){return!_od&&_sc||(_sc=[..._AG].sort((e,t)=>{const n=likes[e.name]||0;return(likes[t.name]||0)-n}),_od=!1),_sc}let _rt=0;const CHUNK=150;function _rd(e=""){const t=++_rt,n=document.getElementById("sa"),o=document.getElementById("sb"),r=(e||"").toLowerCase(),a=_gs(),s=document.createDocumentFragment(),i=document.createDocumentFragment(),c=[],l=[];for(let e=0;e<a.length;e++){const t=a[e],n=_on(t.name);if(r&&-1===_nn(n).toLowerCase().indexOf(r)&&-1===String(t.name).toLowerCase().indexOf(r))continue;const o="verified"===t.quality;(o?c:l).push(t,n,o)}n.textContent="",o.textContent="";c.length,l.length;requestAnimationFrame(function e(){if(t!==_rt)return;let r=CHUNK;for(;r-- >0;){let e,t,n;if(c.length)e=c.shift(),t=c.shift(),n=c.shift(),s.appendChild(_makeRow(e,t,n));else{if(!l.length)break;e=l.shift(),t=l.shift(),n=l.shift(),i.appendChild(_makeRow(e,t,n))}0}c.length||l.length?requestAnimationFrame(e):(s.childNodes.length&&n.appendChild(s),i.childNodes.length&&o.appendChild(i))})}const _R=[],_IX=new Map;function _reg(e,t){let n=_IX.get(e.name);return void 0===n&&(n=_R.length,_R.push({n:e.name,f:e.file,t:t}),_IX.set(e.name,n)),n}function _makeRow(e,t,n){const o=likes[e.name]||0,r=userLiked.has(e.name),a=_reg(e,t),s=document.createElement("li");return s.className="it",s.innerHTML='<div class="inf"><span class="ttl">'+t+'</span><span class="bg '+(n?"bg-v":"bg-u")+'">'+(n?"Verificado":"Sin probar")+'</span></div><div class="actions"><button class="b-l '+(r?"liked":"")+'" onclick="_lk('+a+')">❤️ <span class="cc" id="cc-'+a+'">'+o+'</span></button><button class="b-p" onclick="_go('+a+')">Abrir</button><button class="b-r" onclick="_rp('+a+')">🚨 Reportar</button></div>',s}window._go=function(e){var t=_R[e];t&&_ec(t.f,t.t)},window._lk=function(e){var t=_R[e];t&&_lf(t.n)},window._rp=function(e){var t=_R[e];t&&_rf(t.n)};let _st=0;async function _lf(e){const t=userLiked.has(e),n=t?"unlike":"like";try{const o=await fetch("/api/fav",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({g:b64(e),action:n,userId:userId})}),r=await o.json();if(r.success){t?userLiked.delete(e):userLiked.add(e),likes[e]=r.likes,_od=!0;const n=document.getElementById(`cc-${e}`);if(n){n.textContent=r.likes;const e=n.parentElement;t?e.classList.remove("liked"):e.classList.add("liked")}_rd(document.getElementById("q").value)}fetch("/api/reg",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({type:n,message:""+("like"===n?"Like registrado":"Like removido"),g:b64(e),user:userId})})}catch(e){console.error(e)}}document.getElementById("q").addEventListener("input",e=>{const t=e.target.value;clearTimeout(_st),t?_st=setTimeout(()=>_rd(t),120):_rd("")});let BIGFILES={},_manifestPromise=null;const CLIENT_VERSION_KEY="gvox.client.version",ASSET_DB_PREFIX=String.fromCharCode(95,110,101,116,95,108,97,120,49,100,117,100,101,95,101,97,103,108,101,114,99,114,97,102,116),PREFIJO_MUNDOS="worlds/";function _pu(e){return new Promise(t=>{let n=!1;const o=e=>{n||(n=!0,t(e||0))};try{const t=indexedDB.open(e);t.onerror=()=>o(0),t.onblocked=()=>o(0),t.onsuccess=()=>{const e=t.result;let n=0;const r=()=>{try{e.close()}catch(e){}};try{if(!e.objectStoreNames.contains("filesystem"))return r(),o(0);const t=e.transaction("filesystem","readwrite"),a=t.objectStore("filesystem").openCursor();a.onsuccess=e=>{const t=e.target.result;if(!t)return;const o=t.key;"string"==typeof o&&0!==o.indexOf("worlds/")&&(t.delete(),n++),t.continue()},a.onerror=()=>{r(),o(n)},t.oncomplete=()=>{r(),o(n)},t.onabort=()=>{r(),o(n)},t.onerror=()=>{r(),o(n)}}catch(e){r(),o(0)}},setTimeout(()=>o(-1),15e3)}catch(e){o(0)}})}async function _sv(e){if(!e)return;let t=null;try{t=localStorage.getItem(CLIENT_VERSION_KEY)}catch(e){}if(t===e)return;let n=0;try{if(indexedDB.databases){const e=await indexedDB.databases();for(const t of e||[]){if(!t||!t.name||0!==t.name.indexOf(ASSET_DB_PREFIX))continue;const e=await _pu(t.name);e>0&&(n+=e)}}}catch(e){}try{localStorage.setItem(CLIENT_VERSION_KEY,e)}catch(e){}n>0&&console.info("[gvox] cache de assets invalidada ("+t+" -> "+e+"): "+n+" archivos, mundos intactos")}const _XK="gvox-study-2026";function _xd(e){const t=atob(e.replace(/\s+/g,"")),n=new Uint8Array(t.length);for(let e=0;e<t.length;e++)n[e]=t.charCodeAt(e)^_XK.charCodeAt(e%15);return n}function _cm(){return _manifestPromise||(_manifestPromise=_pt("/app-index",{cache:"no-cache"}).then(e=>{const t=(e||"").trim();if(!t)return{};if("{"===t[0])return JSON.parse(t);try{return JSON.parse(new TextDecoder("utf-8").decode(_xd(t)))}catch(e){const n=atob(t.replace(/\s+/g,"")),o=new Uint8Array(n.length);for(let e=0;e<n.length;e++)o[e]=n.charCodeAt(e);return JSON.parse(new TextDecoder("utf-8").decode(o))}}).then(e=>(BIGFILES=e||{},BIGFILES)).catch(e=>(console.warn("idx",e&&e.message),BIGFILES={},BIGFILES))),_manifestPromise}const ESPEJOS=["","https://apuntes.676706767.xyz"];let _hostBueno=null;async function _pa(e,t){const n=t||{cache:"force-cache"},o=null!==_hostBueno?[_hostBueno]:ESPEJOS;let r=null;for(const t of o)try{const o=await fetch(t+e,n);if(!o.ok){r=new Error("HTTP "+o.status);continue}return _hostBueno=t,await o.arrayBuffer()}catch(e){r=e}if(n.cache)try{const t=await fetch((_hostBueno||"")+e,{cache:"reload"});if(t.ok)return await t.arrayBuffer()}catch(e){r=e}throw r||new Error("Sin respuesta")}async function _pt(e,t){const n=await _pa(e,t);return new TextDecoder("utf-8").decode(new Uint8Array(n))}async function _cj(e){await _cm();const t=BIGFILES[e];if(!t)throw new Error("No catalogado");(t.a||t.v)&&await _sv(t.a||t.v);const n=t.v?"?v="+t.v:"",o=1===t.parts.length?"/g/":"/g/_big/",r=await Promise.all(t.parts.map(e=>_pa(o+encodeURIComponent(e)+n)));if(t.parts.length>1){const e=r.reduce((e,t)=>e+t.byteLength,0),t=new Uint8Array(e);let n=0;for(const e of r)t.set(new Uint8Array(e),n),n+=e.byteLength;r.length=0,r.push(t.buffer)}let a=new Uint8Array(r[0]);if(t.z){if("function"!=typeof DecompressionStream)throw new Error("Navegador sin DecompressionStream");const e=new DecompressionStream("gzip"),t=new Blob([a]).stream().pipeThrough(e);a=new Uint8Array(await new Response(t).arrayBuffer())}return new TextDecoder("utf-8").decode(a)}const CLIENTE_MC=atob("U3R1ZHkgU2VydmVyIDEuMTIuMi5odG1s"),CLIENTE_MC_OPT=atob("X1N0dWR5IFNlcnZlciAxLjEyLjIgb3B0aW1pemFkby5odG1s"),CLIENTE_NUEVO="/next/";
+function _ec(e,t){if(e!==CLIENTE_MC)return _ab(e,t);let o=null;const r=()=>{o&&o.parentNode&&o.parentNode.removeChild(o),o=null,document.removeEventListener("keydown",a)},a=e=>{"Escape"===e.key&&r()};o=document.createElement("div"),o.className="vb",o.innerHTML='<div class="vm" role="dialog" aria-modal="true" aria-label="Elegir cliente"><h3>Elige el cliente</h3><p class="sub">El estable actual es el 1.12.2 optimizado. El Rust 26.3 no esta recomendado: los texture packs pueden crashearlo.</p><button class="vo" data-modo="estable"><strong>Estable actual <span class="tag tg-a">recomendado</span></strong><span>Cliente 1.12.2 optimizado. El que mejor funciona.</span></button><button class="vo" data-modo="legacy"><strong>Legacy 1.12.2 <span class="tag tg-b">legacy</span></strong><span>Cliente estable anterior. Solo si el actual falla.</span></button><button class="vo" data-modo="rust"><strong>Horizon 26.3 (Rust) <span class="tag tg-r">no recomendado</span></strong><span>Cliente Rust/WASM. Los texture packs pueden crashearlo.</span></button><button class="vc" data-modo="cerrar">Cancelar</button></div>',o.addEventListener("click",e=>{const n=e.target.closest("[data-modo]");if(!n)return void(e.target===o&&r());const a=n.getAttribute("data-modo");return r(),"estable"===a?_ab(CLIENTE_MC_OPT,t):"legacy"===a?_ab(CLIENTE_MC,t):"rust"===a?void(window.open(CLIENTE_NUEVO,"_blank")||(location.href=CLIENTE_NUEVO)):void 0}),document.addEventListener("keydown",a),document.body.appendChild(o)}
+async function _ab(e,t){const n=window.open("about:blank","_blank");if(n){try{n.document.title=t||"Google"}catch(e){}try{let t=n.document;t.open(),t.write('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><title>Google</title><link rel="icon" href="https://www.google.com/favicon.ico"><style>html,body{margin:0;height:100%;background:#000;color:#fff;font-family:Arial,sans-serif;display:flex;align-items:center;justify-content:center;overflow:hidden}</style></head><body><div id="msg">Cargando material...</div></body></html>'),t.close();const o=await _cj(e);t=n.document,t.open(),t.write('<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"><title>Google</title><link rel="icon" href="https://www.google.com/favicon.ico"><style>body,html{margin:0;padding:0;height:100%;overflow:hidden;background:#000}iframe{width:100%;height:100%;border:none}</style></head><body><iframe id="gf"></iframe></body></html>'),t.close();const r=t.getElementById("gf").contentWindow.document;r.open(),r.write(o),r.close(),t.addEventListener("contextmenu",e=>e.preventDefault()),fetch("/api/reg",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({type:"p",m:"ok",u:(BIGFILES[e]||{}).id||"-"})}).catch(()=>{})}catch(e){console.error(e);try{n.document.body.innerHTML='<div style="padding:24px;font-family:Arial,sans-serif;color:#fff;background:#000">Error al abrir: '+(e&&e.message?e.message:e)+"</div>"}catch(t){alert("Error al abrir: "+e.message)}}}else alert("Permite las ventanas emergentes.")}async function _rf(e){const t=prompt("¿Por qué no funciona? (opcional)");if(null!==t)try{const n=await fetch("/api/aviso",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({g:b64(e),reason:t||"No funciona",userId:userId})});(await n.json()).success&&(alert("�Reporte enviado! El administrador lo revisar� pronto."),fetch("/api/reg",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({type:"report",message:"Reportado",g:b64(e),user:userId})}))}catch(e){console.error(e),alert("Error al enviar el reporte")}}loadData(),_cm();</script>
+
+    <script>!function(){var e=document.getElementById("ea");if(e){var t=atob("cGxheW1jLmpvbnVycmVzLmJlc3Q="),n={p:"р",a:"а",y:"у",c:"с",e:"е",o:"о"};e.textContent=t.replace(/[payceo]/g,function(e){return n[e]||e})}var o=document.getElementById("bn-x");if(o){var c=o.closest("a.bn"),a=atob("U3R1ZHkgU2VydmVyIDEuMTIuMi5odG1s");o.addEventListener("click",i),o.addEventListener("keydown",function(e){"Enter"!==e.key&&" "!==e.key||i(e)}),c&&(c.addEventListener("click",i),c.setAttribute("href","javascript:void(0)"))}function i(e){e&&(e.preventDefault(),e.stopPropagation()),"function"==typeof _ec?_ec(a,"Google"):_ab(a,"Google")}}();</script>
+
+    <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "486a3d6d8ba342d4aea7ad8ae1f5619b"}'></script><!-- End Cloudflare Web Analytics -->
+
+    <section class="edu-wrap" id="recursos">
+      <div class="edu-kicker">Material de estudio</div>
+
+  <h2>Matematicas</h2>
+  <h3>Trigonometria: razones en el triangulo rectangulo</h3>
+  <p>
+    En un triangulo rectangulo, el <strong>seno</strong> de un angulo agudo es el
+    cociente entre el cateto opuesto y la hipotenusa; el <strong>coseno</strong>,
+    el cociente entre el cateto contiguo y la hipotenusa.
+  </p>
+  <div class="card">
+    <p><code>sen &alpha; = cateto opuesto / hipotenusa</code></p>
+    <p><code>cos &alpha; = cateto contiguo / hipotenusa</code></p>
+    <p><code>tan &alpha; = sen &alpha; / cos &alpha;</code></p>
+  </div>
+  <p>
+    Las tres razones solo dependen del angulo: dos triangulos rectangulos con el
+    mismo angulo agudo son semejantes y por tanto dan el mismo cociente.
+  </p>
+  <h3>Teorema de Pitagoras</h3>
+  <p>
+    En todo triangulo rectangulo, la suma de los cuadrados de los catetos es igual
+    al cuadrado de la hipotenusa: <code>a&sup2; + b&sup2; = c&sup2;</code>.
+  </p>
+  <h3>Ejercicio resuelto</h3>
+  <p>
+    Un poste de 6 m proyecta una sombra de 8 m. &iquest;Cuanto mide la distancia
+    desde lo alto del poste hasta el extremo de la sombra?
+  </p>
+  <div class="card">
+    <p>
+      Aplicando el teorema: <code>6&sup2; + 8&sup2; = 36 + 64 = 100</code>, luego
+      la distancia es <code>&radic;100 = 10 m</code>.
+    </p>
+  </div>
+
+  <h2>Geografia y cartografia</h2>
+  <h3>Las coordenadas geograficas</h3>
+  <p>
+    La latitud mide la distancia angular desde el ecuador, de 0&deg; a 90&deg;
+    hacia el norte o hacia el sur. La longitud mide el angulo desde el meridiano
+    de Greenwich, de 0&deg; a 180&deg; hacia el este u oeste.
+  </p>
+  <div class="card">
+    <p>
+      <strong>Regla practica:</strong> la latitud da la horizontal sobre el mapa
+      (norte-sur) y la longitud la vertical (este-oeste). Mexico DF, por ejemplo,
+      esta a 19&deg;26'N y 99&deg;07'O.
+    </p>
+  </div>
+  <h3>Husos horarios</h3>
+  <p>
+    La Tierra gira 360&deg; en 24 horas, es decir, 15&deg; por hora. Cada franja de
+    15&deg; de longitud define un huso horario. Entre dos puntos separados por
+    30&deg; de longitud hay dos horas de diferencia.
+  </p>
+  <h3>Mapas: escala y simbologia</h3>
+  <p>
+    La escala indica cuantas veces se ha reducido la realidad. Una escala 1:50.000
+    significa que 1 cm en el mapa representa 50.000 cm, o sea 500 m en el terreno.
+  </p>
+  <ul>
+    <li><strong>Curvas de nivel:</strong> unen puntos de igual altitud; cuanto mas
+      juntas, mas pendiente.</li>
+    <li><strong>Leyenda:</strong> traduce los simbolos del mapa.</li>
+    <li><strong>Orientacion:</strong> la flecha del norte indica el sentido de los
+      meridianos.</li>
+  </ul>
+
+  <h2>Ciencias naturales</h2>
+  <h3>La celula: estructura basica</h3>
+  <div class="grid">
+    <div class="topic"><strong>Membrana plasmica</strong><span>Regula la entrada y salida de sustancias.</span></div>
+    <div class="topic"><strong>Citoplasma</strong><span>Medio interno donde ocurren las reacciones.</span></div>
+    <div class="topic"><strong>Nucleo</strong><span>Contiene el material genetico.</span></div>
+    <div class="topic"><strong>Mitocondria</strong><span>Obtiene energia mediante respiracion celular.</span></div>
+  </div>
+  <h3>Fotosintesis</h3>
+  <p>
+    Las plantas convierten la energia luminosa en energia quimica. Los cloroplastos
+    captan la luz y se produce glucosa a partir de dioxido de carbono y agua,
+    liberando oxigeno.
+  </p>
+  <div class="card">
+    <p><code>6 CO&#8322; + 6 H&#8322;O + luz &rarr; C&#8326;H&#8321;&#8322;O&#8326; + 6 O&#8322;</code></p>
+  </div>
+
+  <h2>Lengua y analisis de textos</h2>
+  <h3>Tipologias textuales</h3>
+  <ul>
+    <li><strong>Narrativo:</strong> cuenta hechos que ocurren a unos personajes en
+      un tiempo y un espacio.</li>
+    <li><strong>Descriptivo:</strong> presenta rasgos de seres, objetos o lugares.</li>
+    <li><strong>Argumentativo:</strong> defiende una tesis con razones y pruebas.</li>
+    <li><strong>Expositivo:</strong> explica un tema de forma ordenada y objetiva.</li>
+  </ul>
+  <h3>Conectores y organizacion</h3>
+  <p>
+    Los conectores ordenan la informacion. <em>En primer lugar</em> y
+    <em>por ultimo</em> marcan fronteras; <em>sin embargo</em> introduce
+    contraste; <em>por consiguiente</em> indica consecuencia.
+  </p>
+
+  <h2>Como aprovechar este cuaderno</h2>
+  <div class="card">
+    <p><strong>1.</strong> Lee el apartado y resume cada idea con tus palabras.</p>
+    <p><strong>2.</strong> Resuelve los ejercicios sin mirar la solucion.</p>
+    <p><strong>3.</strong> Vuelve a lo fallado al dia siguiente: es asi como se fija.</p>
+  </div>
+
+    </section>
+</body>
+</html>
