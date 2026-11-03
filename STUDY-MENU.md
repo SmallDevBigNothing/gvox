@@ -1,13 +1,13 @@
 # Study page client menu
 
 The live study page is the Cloudflare Pages project `gvox` (direct upload).
-`/files?acceso=MPL` is a fake study shell; it fetches `/app-core`.
+All study entry URLs require `?acceso=MPL`; without it they redirect to Google.
 
-The live `/app-core` is shadowed by Worker `gvox-app-core`; the Worker fetches
-`https://smalldevbignothing.github.io/horizon-web/next/app-core.b64`.
+- `/files?acceso=MPL`: fake study shell; fetches `/app-core`.
+- `/app-core`: Worker `gvox-app-core` (requires the flag or a `/files?acceso=MPL` referer).
+- `/next/`: Worker `horizon-next`; updated Rust client; opens in `about:blank`.
+- `/horizon/`: Worker `horizon-router`.
 
-Menu:
-- **Estable actual**: previous 1.12.2 optimized (recommended).
-- **Legacy 1.12.2**: previous 1.12.2 stable.
-- **Horizon 26.3 (Rust)** at `/next/`: repaired; it enters the world. If the
-  resource-pack prompt appears, choose **No**.
+Menu: Estable actual (1.12.2 optimizado), Legacy 1.12.2, Horizon 26.3 (Rust)
+`/next/` repaired. The Rust option opens an about:blank popup with an iframe
+`/next/?acceso=MPL`; it uses pkg-st because about:blank cannot be isolated.
